@@ -9,7 +9,7 @@ bruteforce attack on facebook account script in python
 * cd Brute-india
 * pip3 install requests bs4
 * pip install mechanize
-* python3 Brute-india or python Brute-india
+* python3 Brute-india or python Brute-india2
 
 ## Screenshots
 ![CAPTURE 1](https://github.com/KomailKhan/Brute-india/blob/master/Screenshots/Capture1.JPG)
