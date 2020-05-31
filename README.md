@@ -5,16 +5,16 @@ bruteforce attack on facebook account script in python
 * apt-get install git python3 python3-pip python python-pip
 
 ## Run commands one by one
-* git clone https://github.com/KomailKhan/FacebookBruteForce
-* cd FacebookBruteForce
+* git clone https://github.com/KomailKhan/Brute-india
+* cd Brute-india
 * pip3 install requests bs4
 * pip install mechanize
-* python3 fb.py or python fb2.py
+* python3 Brute-india or python Brute-india
 
 ## Screenshots
-![CAPTURE 1](https://github.com/KomailKhan/FacebookBruteForce/blob/master/Screenshots/Capture1.JPG)
-![CAPTURE 1](https://github.com/KomailKhan/FacebookBruteForce/blob/master/Screenshots/Capture2.JPG)
-![CAPTURE 1](https://github.com/KomailKhan/FacebookBruteForce/blob/master/Screenshots/Capture3.JPG)
+![CAPTURE 1](https://github.com/KomailKhan/Brute-india/blob/master/Screenshots/Capture1.JPG)
+![CAPTURE 1](https://github.com/KomailKhan/Brute-india/blob/master/Screenshots/Capture2.JPG)
+![CAPTURE 1](https://github.com/KomailKhan/Brute-india/blob/master/Screenshots/Capture3.JPG)
 
 ## Protection Against Attacker
 * Use Strong Password(Contain all chars + longest as possible)
@@ -25,5 +25,5 @@ bruteforce attack on facebook account script in python
 https://www.facebook.com/komail.khan.3781
 
 ~~~
-Happy Hacking Day ! (Please do not spam it, It's Just For Knowledge ...).
+## Happy Hacking Day ! (Please do not spam it, It's Just For Knowledge ...).
 ~~~
